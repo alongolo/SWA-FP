@@ -13,8 +13,8 @@ Creators: <br/>
 ## How to run:
 ### To run the SWA Tests - 
 Run the test cases in the "main.py". 
-The test cases calls the function "nested_cross_swa". To run the improved SWA implementation, change the parameter "swa_improved" in this function to "True". 
-WARNING: The tests could take a while to run.
+The test cases calls the function "nested_cross_swa". To run the improved SWA implementation, change the parameter "swa_improved" in this function to "True". <br/>
+<b>WARNING</b>: The tests could take a while to run.
 
 ### To run the post-hoc tests:
 Simply run the "PostHocTest.py" file.
