@@ -1,4 +1,4 @@
-# SWA-Final Project
+# SWA & SWA Improved Implementation
 
 This is a final project in the course of Applied Machine Learning in Ben Gurion at the System Information and Software Engineering.
 
